@@ -1,6 +1,6 @@
 # Restaurant Pome Page
 
-Project README.md
+[check **Deployed**(via **Pages**) version from here](https://ujjawalmaurya.github.io/Restaurant-Pome-Hage/)
 
 ## Preview:
 
